@@ -18,18 +18,13 @@ Fornecer instruções simples e claras para a pessoa usuária que deseja configu
 O tutorial completo está organizado nos seguintes arquivos:
 
 
-1. `sobre-o-pix.md`: Sobre o Pix
-2. `vantagens-do-pix.md`: Vantagens do Pix
-3. `chave-pix.md`: Chave Pix
-4. `como-configurar-sua-chave-pix.md`: Como configurar sua chave Pix
+:small_orange_diamond: [Sobre o Pix](#Sobre%20o%20Pix.md)
 
-:small_blue_diamond: [Sobre o Pix](Chave%20Pix.md)
+:small_orange_diamond: [Vantagens do Pix](Vantagens%20do%20Pix.md)
 
-:small_blue_diamond: [Vantagens do Pix](#vantagens-do-pix)
+:small_orange_diamond: [Chave Pix](Chave%20Pix.md)
 
-:small_blue_diamond: [Chave Pix](Chave%20Pix.md)
-
-:small_blue_diamond: [Como configurar sua chave Pix](#como-configurar-sua-chave-pix)
+:small_orange_diamond: [Como configurar sua chave Pix](Como%20configurar%20sua%20chave%20Pix.md)
 
 
 <br>
