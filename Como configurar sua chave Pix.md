@@ -4,7 +4,8 @@
 
 <br>
 
-> ℹ️  Com esta documentação você aprenderá:
+> [!NOTE]  
+> Com esta documentação você aprenderá:
 > - o que é o Pix
 > - os tipos de chaves 
 > - como configurar sua chave Pix
@@ -53,7 +54,8 @@ Com ela, você não precisa informar dados bancários, como banco, agência e co
 
 <br>
 
-!!! Chave Pix - ela é só sua!
+> [!NOTE]
+> Chave Pix - ela é só sua!
 
 <br>
 
@@ -74,7 +76,8 @@ As chaves mais conveniente são o **número do celular** e o **e-mail**. Elas s�
 
 <br>
 
-> ℹ️ A chave aleatória é a opção mais segura para o Pix. Ela reduz o risco de exposição a possíveis tentativas de fraude.
+> [!TIP]
+> A chave aleatória é a opção mais segura para o Pix. Ela reduz o risco de exposição a possíveis tentativas de fraude. <br>
 > Por ser uma sequência gerada aleatoriamente pelo sistema, ela não está associada às suas informações pessoais, como CPF, e-mail ou número de telefone.
 
 <br>
@@ -97,9 +100,8 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 9. Aguarde a confirmação
 
 <br>
-<br>
 
-> **Dicas importantes:**
+> [!IMPORTANT]
 > - Você pode ter até 5 chaves Pix por conta
 > - Você deve manter suas chaves atualizadas
 > - Nunca compartilhe senhas ou códigos de segurança
