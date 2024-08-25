@@ -1,11 +1,10 @@
 # Como configurar sua chave Pix
 
-⏳*Tempo de leitura: 2 minutos*
-
 <br>
 
 Para fazer um Pix, você precisa configurar sua chave Pix. 
 
+<br>
 
 É só seguir estes passos:
 
