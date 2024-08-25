@@ -4,6 +4,17 @@
 
 <br>
 
+## Tabela de Conteúdo
+- [1. Descrição do Projeto](#1-descrição-do-projeto)
+- [2. Objetivo](#2-objetivo)
+- [3. Arquivos](#3-arquivos)
+- [4. Como usar](#4-como-usar)
+- [5. Aviso Legal](#5-aviso-legal)
+- [6. Referências](#6-referências)
+- [7.  7. Documentação criada por :octocat:](#7-documentação-criada-por)
+
+<br>
+
 ## 1. Descrição do Projeto
 Este repositório contém um tutorial completo para você configurar suas chaves Pix.
 
@@ -14,11 +25,11 @@ Fornecer instruções simples e claras para a pessoa usuária que deseja configu
 
 <br>
 
-## 3. Tópicos
+## 3. Arquivos
 O tutorial completo está organizado nos seguintes arquivos:
 
 
-:small_orange_diamond: [Sobre o Pix](#Sobre%20o%20Pix.md)
+:small_orange_diamond: [Sobre o Pix](Sobre%20o%20Pix.md)
 
 :small_orange_diamond: [Vantagens do Pix](Vantagens%20do%20Pix.md)
 
@@ -36,14 +47,18 @@ Siga a ordem apresentada no item 3 para uma experiência de aprendizado estrutur
 
 
 ## 5. Aviso Legal
-Este é um guia informativo. Consulte sempre sua instituição financeira para informações oficiais e atualizadas.
+Este é um tutorial informativo. Consulte sempre sua instituição financeira para informações oficiais e atualizadas.
+
+<br>
 
 > [!TIP]
 > Para saber mais sobre o Pix, consulte a [documentação oficial do Bacen](https://www.bcb.gov.br/estabilidadefinanceira/pix).
 
 <br>
 
-## 6. Fontes de Pesquisa
+## 6. Referências
+
+<br>
 
 |Referência  | Site |
 |--|--|
