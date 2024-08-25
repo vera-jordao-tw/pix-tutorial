@@ -27,7 +27,7 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 
 <br>
 
-[imagem Pix]
+![Logo Pix](logo_pix.png)
 
 <br>
 
