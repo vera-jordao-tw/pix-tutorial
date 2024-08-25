@@ -1,6 +1,6 @@
 # Configurando sua chave Pix
 
-*Tempo de leitura: 2 minutos*
+⏳*Tempo de leitura: 2 minutos*
 
 <br>
 
@@ -112,7 +112,3 @@ Para saber mais sobre o Pix, consulte a [documentação oficial do Bacen](https:
 ***
 
 *Atualizado em 25/8/2024*
-
-Este é um {c:red}texto vermelho.{/c}
-
-[size=10]*Atualizado em 25/8/2024*[/size]
