@@ -23,11 +23,11 @@ O tutorial completo está organizado nos seguintes arquivos:
 3. `chave-pix.md`: Chave Pix
 4. `como-configurar-sua-chave-pix.md`: Como configurar sua chave Pix
 
-:small_blue_diamond: [Sobre o Pix](#dsobre-o-pix)
+:small_blue_diamond: [Sobre o Pix](Chave%20Pix.md)
 
 :small_blue_diamond: [Vantagens do Pix](#vantagens-do-pix)
 
-:small_blue_diamond: [A chave Pix](#a-chave-pix)
+:small_blue_diamond: [Chave Pix](Chave%20Pix.md)
 
 :small_blue_diamond: [Como configurar sua chave Pix](#como-configurar-sua-chave-pix)
 
