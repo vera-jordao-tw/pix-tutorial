@@ -5,3 +5,5 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 <br>
 
 ![Logo Pix](https://github.com/vera-jordao-tw/pix-tutorial/blob/05575e7fb11b1586939e57bdee63f9cdcc551030/logo_pix.png)
+
+***
