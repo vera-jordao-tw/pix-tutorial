@@ -23,7 +23,7 @@
 <br>
 
 ## O que é o Pix
-Pix é o pagamento instantâneo brasileiro. Ele é uma nova forma de pagar e transferir. 
+Pix é o pagamento instantâneo brasileiro. Ele é uma nova forma de pagar e transferir. <br>
 Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empresas e entidades governamentais.
 
 <br>
@@ -47,7 +47,7 @@ Conheça algumas vantagens que o Pix trás.
 
 <br>
 
-## Chave Pix
+## Chave Pix 🔑
 
 É a com chave Pix que você faz seu pagamento ou transferência. Ela identifica o destinatário de forma rápida e fácil. <br>
 Com ela, você não precisa informar dados bancários, como banco, agência e conta. 
@@ -72,7 +72,7 @@ Existem 4 tipos de chaves Pix que você pode cadastrar:
 
 #### Qual chave escolher?
 
-As chaves mais conveniente são o **número do celular** e o **e-mail**. Elas são informações fáceis de você lembrar.
+As chaves mais convenientes são o **número do celular** e o **e-mail**. Elas são informações fáceis de você lembrar.
 
 <br>
 
@@ -82,7 +82,7 @@ As chaves mais conveniente são o **número do celular** e o **e-mail**. Elas s�
 
 <br>
 
-## Como configurar sua chave Pix
+## Como configurar sua chave Pix ⚙️
 
 Para fazer um Pix, você precisa configurar sua chave Pix. 
 
