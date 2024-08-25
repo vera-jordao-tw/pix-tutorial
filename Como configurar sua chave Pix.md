@@ -1,17 +1,22 @@
 # Como configurar sua chave Pix
 
 > ℹ️  Com esta documentação você aprenderá:
-> - como configurar sua chave Pix
+> - o que é o Pix
 > - os tipos de chaves disponíveis
-> - as opções de Pix que você pode usar 
+> - como configurar sua chave Pix
 
  
-## Tabela de conteúdo
-
+## Tabela de Conteúdo
+- [O que é o Pix](#o-que-é-o-pix)
+- [Vantagens do Pix](#vantagens-do-pix)
+- [Chave Pix](#chave-pix)
+- [Tipos de chaves](#tipos-de-chaves)
+- [Qual chave escolher](#qual-chave-escolher)
+- [Como configurar sua chave Pix](#como-configurar-sua-chave-pix)
 
 
 ## O que é o Pix
-O Pix o pagamento instantâneo brasileiro. Ele é uma nova forma de pagar e transferir. 
+Pix é o pagamento instantâneo brasileiro. Ele é uma nova forma de pagar e transferir. 
 Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empresas e entidades governamentais.
 
 <br>
@@ -25,7 +30,7 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 |--|--|
 |Fácil  | Você usa de forma simples |
 | Rápido |Sua transação é concluída em poucos segundos   |
-| Seguro | Medidas e mecanismos de segurança robustos   |
+| Seguro | Ele usa medidas e mecanismos de segurança robustos   |
 | Disponível | 24 horas por dia, 7 dias por semana, inclusive feriados |
 | Barato | Gratuito para pessoa física pagadora. Custo baixo para os demais casos |
 
@@ -33,7 +38,7 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 
 ## Chave Pix
 
-A chave Pix identifica o destinatário de forma rápida e fácil. Ela substitui a nacessidade de informar dados bancários, como banco, agência e conta. 
+A chave Pix identifica o destinatário de forma rápida e fácil. Com ela, você não precisa informar dados bancários, como banco, agência e conta. 
 É a com chave Pix que você faz seu pagamento ou transferência. 
 
 <br>
@@ -42,31 +47,31 @@ A chave Pix identifica o destinatário de forma rápida e fácil. Ela substitui 
 
 <br>
 
-### Tipos de chave Pix
+### Tipos de chaves
 
 Existem 4 tipos de chaves Pix que você pode cadastrar:
 
 1. Número de telefone celular
 2. e-mail
 3. CPF
-4. chave aleatória, para o caso de você não querer informar dados pessoais
+4. chave aleatória
 
 <br>
 
-**Que chave devo escolher?**
+**Qual chave escolher?**
 
-As chaves mais conveniente são o **número do celular** e o **e-mail**, pois são informações fáceis de você lembrar.
+As chaves mais conveniente são o **número do celular** e o **e-mail**. Elas são informações fáceis de você lembrar.
 
 <br>
 
 > ℹ️ A chave aleatória é a opção mais segura para o Pix. Ela reduz o risco de exposição a possíveis tentativas de fraude.
-> Por ser uma sequência gerada aleatoriamente pelo sistema, ela não está associada a informações pessoais, como CPF, e-mail ou número de telefone.
+> Por ser uma sequência gerada aleatoriamente pelo sistema, ela não está associada às suas informações pessoais, como CPF, e-mail ou número de telefone.
 
 <br>
 
 ## Como configurar sua chave Pix
 
-Para começar a usar o Pix, você precisa configurar sua chave PIX. 
+Para fazer um Pix, você precisa configurar sua chave Pix. 
 
 
 É só seguir estes passos:
@@ -89,3 +94,7 @@ Para começar a usar o Pix, você precisa configurar sua chave PIX.
 > - Nunca compartilhe senhas ou códigos de segurança
 > - Se precisar de ajuda, entre em contato com o seu banco
 
+Para saber mais sobre o Pix, consulte a documentação oficial do Bacen
+***
+
+Atualizado em 25/8/2024
