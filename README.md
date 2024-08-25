@@ -27,8 +27,6 @@ Fornecer instruções simples e claras para a pessoa usuária que deseja configu
 
 <br>
 
-<p align="right">(<a href="#readme-top">🔼</a>)</p>
-
 ## 3. Arquivos
 O tutorial completo está organizado nos seguintes arquivos:
 
@@ -43,34 +41,24 @@ O tutorial completo está organizado nos seguintes arquivos:
 
 <br>
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
-
 ## 4. Como usar
 Siga a ordem apresentada no item 3 para uma experiência de aprendizado estruturada.
 
 <br>
-
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
 ## 5. Aviso Legal
 Este é um tutorial informativo. Consulte sempre sua instituição financeira para informações oficiais e atualizadas.
 
 <br>
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
-
 > [!TIP]
 > Para saber mais sobre o Pix, consulte a [documentação oficial do Bacen](https://www.bcb.gov.br/estabilidadefinanceira/pix).
 
 <br>
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
-
 ## 6. Referências
 
 <br>
-
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
 
 |Referência  | Site |
 |--|--|
@@ -80,11 +68,9 @@ Este é um tutorial informativo. Consulte sempre sua instituição financeira pa
 
 <br>
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
-
 ## 7. Documentação criada por :octocat:
 
 
 [<img src="https://avatars.githubusercontent.com/u/179317175?v=4" width=80> <br> <sub>Vera Jordão - Technical Writer</sub>](https://github.com/vera-jordao-tw) 
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
+***
