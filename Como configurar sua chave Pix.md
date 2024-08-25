@@ -1,10 +1,15 @@
-# Como configurar sua chave Pix
+# Configurando sua chave Pix
+
+*Tempo de leitura: 2 minutos*
+
+<br>
 
 > ℹ️  Com esta documentação você aprenderá:
 > - o que é o Pix
-> - os tipos de chaves disponíveis
+> - os tipos de chaves 
 > - como configurar sua chave Pix
 
+<br>
  
 ## Tabela de Conteúdo
 - [O que é o Pix](#o-que-é-o-pix)
@@ -14,6 +19,7 @@
 - [Qual chave escolher](#qual-chave-escolher)
 - [Como configurar sua chave Pix](#como-configurar-sua-chave-pix)
 
+<br>
 
 ## O que é o Pix
 Pix é o pagamento instantâneo brasileiro. Ele é uma nova forma de pagar e transferir. 
@@ -25,7 +31,11 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 
 <br>
 
-**Vantagens do Pix**
+### Vantagens do Pix
+Conheça algumas vantagens que o Pix trás.
+
+<br>
+
 |  |  |
 |--|--|
 |Fácil  | Você usa de forma simples |
@@ -38,8 +48,8 @@ Você pode usar o Pix para fazer pagamentos e transferências para pessoas, empr
 
 ## Chave Pix
 
-A chave Pix identifica o destinatário de forma rápida e fácil. Com ela, você não precisa informar dados bancários, como banco, agência e conta. 
-É a com chave Pix que você faz seu pagamento ou transferência. 
+É a com chave Pix que você faz seu pagamento ou transferência. Ela identifica o destinatário de forma rápida e fácil. <br>
+Com ela, você não precisa informar dados bancários, como banco, agência e conta. 
 
 <br>
 
@@ -58,7 +68,7 @@ Existem 4 tipos de chaves Pix que você pode cadastrar:
 
 <br>
 
-**Qual chave escolher?**
+#### Qual chave escolher?
 
 As chaves mais conveniente são o **número do celular** e o **e-mail**. Elas são informações fáceis de você lembrar.
 
@@ -86,7 +96,8 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 8. Confirme o cadastro
 9. Aguarde a confirmação
 
-<br>    
+<br>
+<br>
 
 > **Dicas importantes:**
 > - Você pode ter até 5 chaves Pix por conta
@@ -94,7 +105,14 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 > - Nunca compartilhe senhas ou códigos de segurança
 > - Se precisar de ajuda, entre em contato com o seu banco
 
-Para saber mais sobre o Pix, consulte a documentação oficial do Bacen
+<br> 
+
+Para saber mais sobre o Pix, consulte a [documentação oficial do Bacen](https://www.bcb.gov.br/estabilidadefinanceira/pix).
+
 ***
 
-Atualizado em 25/8/2024
+*Atualizado em 25/8/2024*
+
+Este é um {c:red}texto vermelho.{/c}
+
+[size=10]*Atualizado em 25/8/2024*[/size]
