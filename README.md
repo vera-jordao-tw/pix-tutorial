@@ -11,7 +11,7 @@
 - [4. Como usar](#4-como-usar)
 - [5. Aviso Legal](#5-aviso-legal)
 - [6. Referências](#6-referências)
-- [7.  7. Documentação criada por :octocat:](#7-documentação-criada-por)
+- [7. Documentação criada por :octocat:](#7-documentação-criada-por)
 
 <br>
 
@@ -71,4 +71,4 @@ Este é um tutorial informativo. Consulte sempre sua instituição financeira pa
 ## 7. Documentação criada por :octocat:
 
 
-[<img src="https://avatars.githubusercontent.com/u/179317175?v=4" width=80> <br> <sub>Vera Jordão</sub>](https://github.com/vera-jordao-tw) 
+[<img src="https://avatars.githubusercontent.com/u/179317175?v=4" width=80> <br> <sub>Vera Jordão - Technical Writer</sub>](https://github.com/vera-jordao-tw) 
