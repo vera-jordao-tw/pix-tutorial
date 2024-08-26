@@ -6,7 +6,7 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 
 <br>
 
-![Como criar sua chave Pix](https://github.com/vera-jordao-tw/pix-tutorial/blob/05575e7fb11b1586939e57bdee63f9cdcc551030/logo_pix.png)
+![Como criar sua chave Pix](https://github.com/vera-jordao-tw/pix-tutorial/blob/664f7be841f2995f9f1c12c6ba6846ad5aadc5ed/info-como-configurar-chave-pix.png)
 
 <br>
 
