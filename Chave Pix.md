@@ -29,6 +29,6 @@ As chaves mais convenientes são o **número do celular** e o **e-mail**. Elas s
 
 > [!TIP]
 > A chave aleatória é a opção mais segura para o Pix. Ela reduz o risco de exposição a possíveis tentativas de fraude. <br>
-> Ela é uma sequência gerada aleatoriamente pelo sistema e não está associada às suas informações pessoais, como CPF, e-mail ou número de telefone.
+> Ela é gerada aleatoriamente pelo sistema e não exibe suas informações pessoais (número de celular, e-mail ou CPF).
 
 ***
