@@ -2,7 +2,7 @@
 
 <br>
 
-Para fazer um Pix, você precisa configurar sua chave Pix. 
+Para fazer um Pix, primeiro você precisa <mark>configurar sua chave Pix</mark>. 
 
 <br>
 
@@ -10,7 +10,7 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 
 <br>
 
-É só seguir estes passos:
+Para configurar sua chave, é só seguir estes passos:
 
 1. Acesse o aplicativo do seu banco
 2. Encontre a opção Pix
@@ -25,10 +25,10 @@ Para fazer um Pix, você precisa configurar sua chave Pix.
 <br>
 
 > [!IMPORTANT]
-> - Você pode ter até 5 chaves Pix por conta
-> - Você deve manter suas chaves atualizadas
-> - Nunca compartilhe senhas ou códigos de segurança
-> - Se precisar de ajuda, entre em contato com o seu banco
+> - Você pode ter até 5 chaves Pix por conta 🔑
+> - Você deve manter suas chaves atualizadas 📱
+> - Nunca compartilhe senhas ou códigos de segurança 📵
+> - Se precisar de ajuda, entre em contato com o seu banco 🏦
 
 
 ***
