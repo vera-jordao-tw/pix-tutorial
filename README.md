@@ -20,8 +20,6 @@ Este repositório contém um tutorial completo para você configurar suas chaves
 
 <br>
 
-<p align="right">(<a href="#readme-top">voltar ao início</a>)</p>
-
 ## 2. Objetivo
 Fornecer instruções simples e claras para a pessoa usuária que deseja configurar e utilizar chaves Pix.
 
@@ -71,6 +69,6 @@ Este é um tutorial informativo. Consulte sempre sua instituição financeira pa
 ## 7. Documentação criada por :octocat:
 
 
-[<img src="https://avatars.githubusercontent.com/u/179317175?v=4" width=80> <br> <sub>Vera Jordão - Technical Writer</sub>](https://github.com/vera-jordao-tw) 
+[<img src="https://avatars.githubusercontent.com/u/179317175?v=4" width=60> <br> <sub>Vera Jordão - Technical Writer</sub>](https://github.com/vera-jordao-tw) 
 
 ***
